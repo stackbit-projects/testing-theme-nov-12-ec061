@@ -2,7 +2,7 @@
 title: Home
 layout: PageLayout
 sections:
-  - colors: colors-e
+  - colors: colors-d
     elementId: ''
     images:
       - url: /images/hilary-ouse.jpg
