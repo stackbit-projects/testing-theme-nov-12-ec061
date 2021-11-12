@@ -23,7 +23,7 @@ sections:
         type: ImageBlock
     spacing: 2
     columns: '6'
-    imageSizePx: 176
+    imageSizePx: 117
     showCaption: true
     enableHover: true
     styles:
