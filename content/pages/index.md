@@ -63,6 +63,7 @@ sections:
     images:
       - url: images/hilary-ouse.jpg
         altText: Hilary Ouse
+        caption: Hilary Ouse
       - altText: lorem-ipsum
         caption: lorem-ipsum
         elementId: ''
