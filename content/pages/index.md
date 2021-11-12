@@ -13,7 +13,7 @@ sections:
         altText: Hugh Saturation
       - url: images/dianne-ameter.jpg
         altText: Dianne Ameter
-    spacing: 1
+    spacing: 9
     columns: 4
     imageSizePx: 176
     showCaption: true
