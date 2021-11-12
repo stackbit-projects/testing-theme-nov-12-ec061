@@ -5,7 +5,6 @@ sections:
   - colors: colors-a
     elementId: ''
     title: Some photos
-    subtitle: Aren't they lovely photos?
     images:
       - url: images/hilary-ouse.jpg
         altText: Hilary Ouse
