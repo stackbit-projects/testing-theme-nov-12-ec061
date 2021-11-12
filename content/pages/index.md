@@ -21,7 +21,7 @@ sections:
           self:
             opacity: 100
         type: ImageBlock
-    spacing: 5
+    spacing: 2
     columns: '6'
     imageSizePx: 176
     showCaption: true
