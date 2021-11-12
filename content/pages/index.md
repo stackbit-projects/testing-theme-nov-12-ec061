@@ -5,7 +5,7 @@ sections:
   - colors: colors-a
     elementId: ''
     images:
-      - url: /favicon.svg
+      - url: /images/hilary-ouse.jpg
         altText: Hilary Ouse
         caption: Hilary Ouse
       - url: images/isabelle-parks.jpg
