@@ -15,7 +15,7 @@ sections:
         altText: Dianne Ameter
     spacing: 1
     columns: 4
-    imageSizePx: 120
+    imageSizePx: 176
     showCaption: true
     enableHover: true
     styles:
