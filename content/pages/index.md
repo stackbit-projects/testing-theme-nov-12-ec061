@@ -25,7 +25,7 @@ sections:
     columns: '6'
     imageSizePx: 117
     showCaption: true
-    enableHover: true
+    enableHover: false
     styles:
       self:
         width: full
