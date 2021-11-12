@@ -22,7 +22,7 @@ sections:
             opacity: 100
         type: ImageBlock
     spacing: 5
-    columns: 4
+    columns: '6'
     imageSizePx: 176
     showCaption: true
     enableHover: true
