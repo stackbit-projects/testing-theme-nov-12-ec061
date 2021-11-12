@@ -4,7 +4,6 @@ layout: PageLayout
 sections:
   - colors: colors-a
     elementId: ''
-    title: Some photos
     images:
       - url: images/hilary-ouse.jpg
         altText: Hilary Ouse
