@@ -1,0 +1,28 @@
+{
+    "model": "MediaGallerySection",
+    "presets": [{
+            "label": "4 columns images",
+            "thumbnail": "images/people-4-col-light.png",
+            "data": {
+                "images": [
+                    {
+                        "url": "images/hilary-ouse.jpg",
+                        "altText": "Hilary Ouse"
+                    },
+                    {
+                        "url": "images/isabelle-parks.jpg",
+                        "altText": "Isabelle Parks"
+                    },
+                    {
+                        "url": "images/hugh-saturation.jpg",
+                        "altText": "Hugh Saturation"
+                    },
+                    {
+                        "url": "images/dianne-ameter.jpg",
+                        "altText": "Dianne Ameter"
+                    }
+                ]
+            }
+        }
+    ]
+}

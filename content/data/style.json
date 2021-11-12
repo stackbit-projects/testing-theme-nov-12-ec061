@@ -1,0 +1,51 @@
+{
+    "type": "ThemeStyle",
+    "h1": {
+        "weight": "normal",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "h2": {
+        "weight": "bold",
+        "size": 58,
+        "lineHeight": 70,
+        "decoration": "underline",
+        "case": "none",
+        "letterSpacing": "-0.025em"
+    },
+    "h3": {
+        "weight": "bold",
+        "decoration": "none",
+        "case": "none",
+        "letterSpacing": "normal"
+    },
+    "fontBody": "ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif",
+    "fontHeadlines": "ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+    "body": "#414c58",
+    "headlines": "#303941",
+    "primary": "#ff78e9",
+    "secondary": "#dfe3e7",
+    "neutral": "#282f36",
+    "complementary": "#e9f6ff",
+    "complementaryAlt": "#fffde2",
+    "buttonPrimary": {
+        "weight": "normal",
+        "radius": 0,
+        "case": "lowercase",
+        "shadow": 0,
+        "letterSpacing": "normal",
+        "horizontalPadding": 30,
+        "verticalPadding": 12
+    },
+    "buttonSecondary": {
+        "weight": "normal",
+        "radius": "9999px",
+        "case": "none",
+        "style": "solid",
+        "shadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+        "letterSpacing": "normal",
+        "horizontalPadding": 24,
+        "verticalPadding": 12
+    }
+}
